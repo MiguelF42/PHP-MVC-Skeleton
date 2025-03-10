@@ -1,0 +1,1 @@
+This repository is a skeleton of a website in PHP using MVC architecture
